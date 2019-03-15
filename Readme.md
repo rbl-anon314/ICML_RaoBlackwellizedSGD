@@ -2,7 +2,7 @@
 
 This repository contains an implementation of the method and reproduces the experiments described in 
 
-https://arxiv.org/abs/1810.04777 
+[arXiv link hidden for anonymity]
 
 We wish to compute the gradient of an expectation
 over a discrete random variable that takes a finite or countably infinite sample space. Since the random variable is discrete, the usual reparameterization trick does not apply. 
